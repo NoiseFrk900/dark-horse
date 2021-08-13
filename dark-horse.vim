@@ -4,12 +4,11 @@
 "| |\  ||  _|  \__, |
 "|_| \_||_|      /_/
 "
-" TEST.vim
 " vim colorscheme
 " by <NoiseFrk900>
-" created yyyy/mm/dd 
-" Project: Nord Vim
-" Repository: https://github.com/noisefrk900/TEST-vim
+" created 2021/08/11 
+" Project: dark-horse
+" Repository: https://github.com/noisefrk900/dark-horse.git
 " License: MIT
 
 set background=dark
@@ -125,22 +124,22 @@ hi Variable		guifg=#558b52
 "PALLETE
 "		Normal
 "00 BLCK	#000000
-"01 DRED	#772f4a ONLY IN COLOR COLUMN (ALT COMMENT COLOR)
-"02 DGRN	#32552c NOT_USED
-"03 DYLW	#8b8852 SPECIAL TODO
-"04 DBLU	#b38b58 DiffADD
-"05 DMAG	#8b5255 STRINGS
-"06 DCYN	#8b8852 MATCH_PAREN
+"01 DRED	#772f4a 
+"02 DGRN	#32552c
+"03 DYLW	#8b8852
+"04 DBLU	#b38b58
+"05 DMAG	#8b5255
+"06 DCYN	#8b8852
 "07 LGRY	#555555
 "                               
-"		                Bright
+"	        Bright
 "08 DGRY	#37381a
-"09 LRED	#ff0000 ERRORS (keep red)
-"10 LGRN	#558b52 (keep green)
-"11 LYLW	#ada38c KEYWORDS+ SEARCH_BCKGRND
-"12 LBLU	#7e5f3a UNDERLINE and EOB  
-"13 LMAG	#597e3a TITLE PREPROC
-"14 LCYN	#7e3d3a FUNCTION IDENTIFIER MODEMSG (POP)
-"15 WHIT	#b35f5b ERROR PMENU
-"00 BLND	#839496 FOLDED AND # TEXT
-"00 BLK2	#222222 FOLDED AND # BCKGND
+"09 LRED	#ff0000
+"10 LGRN	#558b52
+"11 LYLW	#ada38c
+"12 LBLU	#7e5f3a
+"13 LMAG	#597e3a
+"14 LCYN	#7e3d3a
+"15 WHIT	#b35f5b
+"00 BLND	#839496
+"00 BLK2	#222222
