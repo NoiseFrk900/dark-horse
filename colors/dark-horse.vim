@@ -1,15 +1,11 @@
-" _   _  _____  ___
-"| \ | ||  ___|/ _ \
-"|  \| || |_  | (_) |
-"| |\  ||  _|  \__, |
-"|_| \_||_|      /_/
-"
-" vim colorscheme
-" by <NoiseFrk900>
-" created 2021/08/11 
-" Project: dark-horse
-" Repository: https://github.com/noisefrk900/dark-horse.git
-" License: MIT
+" ============================================================================
+" Name:     Dark-horse vim colorscheme
+" Author:   NoiseFrk900 <NoiseFreak900@gmail.com>  
+" URL:      https://github.com/noisefrk900/dark-horse.git  
+" License:  MIT license
+" Created:  In unknown shadows 
+" Modified: 2021-08-14
+" ============================================================================
 
 set background=dark
 
